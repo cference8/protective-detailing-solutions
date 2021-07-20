@@ -124,6 +124,15 @@ footer p {
   margin: 0;
 }
 
+.middle {
+  text-shadow: 1px 1px 2px #000;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
 @media screen and (max-width: 700px) {
 
   header {
