@@ -19,10 +19,6 @@ body {
   margin: 0;
 }
 
-h1{
-  text-shadow: 1px 1px 2px #000;
-}
-
 .container{
   padding: 1rem;
   margin: 0 auto;
@@ -54,7 +50,12 @@ content {
 
 .content h1 {
   color: #00c2ff;
+  text-shadow: 1px 1px 2px #000;
   margin-bottom: 0;
+}
+
+.content , a , p {
+  text-shadow: 1px 1px 2px #000;
 }
 
 nav {
