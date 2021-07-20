@@ -58,6 +58,10 @@ content {
   text-shadow: 1px 1px 2px #000;
 }
 
+a {
+  border-radius: 12px;
+}
+
 nav {
  display: flex;
  justify-content: space-between;
